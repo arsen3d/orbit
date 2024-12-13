@@ -4,6 +4,7 @@ mediator = ["0x7B49d6ee530B0A538D26E344f3B02E79ACa96De2"]
 api_host = ""
 
 [web3]
+http_rpc_url = "https://rpc.arsenum.com"
 rpc_url = "wss://wss.orbit.arsenum.com"
 chain_id = 68283778764
 controller_address = "0xa85233C63b9Ee964Add6F2cffe00Fd84eb32338f"
