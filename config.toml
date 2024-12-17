@@ -25,7 +25,7 @@ token = "eyJhbGciOiJFZERTQSIsInR5cCI6IkpXVCJ9.eyJhdXRob3JpemVkIjp0cnVlLCJ1c2VyIj
 
 [offer]
 gpu=1
-modules = "github.com/RareCompute/ai-oncologist:main, github.com/Lilypad-Tech/lilypad-module-sdxl-pipeline:main"
+modules = "github.com/arsenum/gradio_whisper_module:main, github.com/Lilypad-Tech/lilypad-module-sdxl-pipeline:main"
 
 [disable]
 telemetry=1
